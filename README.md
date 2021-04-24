@@ -6,13 +6,20 @@
 
 ## ScreenShots
 
+![image](https://user-images.githubusercontent.com/52014318/115958267-24610d80-a4dd-11eb-876a-b9824224c730.png)
+![image](https://user-images.githubusercontent.com/52014318/115958737-fb417c80-a4de-11eb-9dbf-6409761cee39.png)
+![image](https://user-images.githubusercontent.com/52014318/115958260-190de200-a4dd-11eb-8ba9-58472b998f7a.png)
+![image](https://user-images.githubusercontent.com/52014318/115958779-380d7380-a4df-11eb-9806-7dba0a2e9cd9.png)
+
 <p align='center'>
- <img  src="">
+  <img src='https://user-images.githubusercontent.com/52014318/115958820-6ee38980-a4df-11eb-8142-ccaecc6c4fba.png' width='240' />
+  <img src='https://user-images.githubusercontent.com/52014318/115958854-a18d8200-a4df-11eb-91f0-4cba29528295.png' width='240' />
+  <img src='https://user-images.githubusercontent.com/52014318/115958858-a6eacc80-a4df-11eb-9cee-0be7644168c1.png' width='240' />
 </p>
 
-## Gifs
-
-
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/52014318/115958863-ae11da80-a4df-11eb-9a96-56033a5b0ff3.png' width='240' />
+</p>
 
 ## Install
 
